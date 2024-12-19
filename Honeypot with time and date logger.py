@@ -1,4 +1,4 @@
-# This a honeypot wtih the time and data logger. The log is kept in the text file honeypot_log.txt. #
+# This a honeypot wtih the time and data logger. The log is kept in the text file honeypot_log.txt. Please remember to leave two windows open while running the scripts.  #
 
 
 import socket
