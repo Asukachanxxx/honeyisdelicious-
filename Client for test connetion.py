@@ -1,3 +1,5 @@
+# Remember to run both windows openned. One with Client script running and the other with the Honeypot script#
+
 import socket
 
 def connect_to_server():
