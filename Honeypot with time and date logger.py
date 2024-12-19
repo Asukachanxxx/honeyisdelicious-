@@ -1,3 +1,6 @@
+# This a honeypot wtih the time and data logger. The log is kept in the text file honeypot_log.txt. #
+
+
 import socket
 import threading
 import time
